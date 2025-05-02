@@ -9,9 +9,8 @@ I have technical experience and interest in:
 - 📊 **Data Analysis & Visualization**
 - ⚡ **AI-Powered Web Applications**
 
-## 🛠️ Languages and Tools
+## 🛠️ Languages and Tools:
 
-### 📊 Data Science & Visualization
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
