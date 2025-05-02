@@ -43,8 +43,8 @@ I have technical experience and interest in:
 <div align="center">
   <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" height="35" title="FastAPI">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" height="40" title="Flask" style="background:white;padding:3px">
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" height="40" title="Streamlit">
   <img src="https://pydantic-docs.helpmanual.io/logo.png" height="40" title="Pydantic" style="background:white;padding:3px">
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" height="40" title="Streamlit">
 </div>
 
 ### 📝 NLP
