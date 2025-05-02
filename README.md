@@ -44,3 +44,8 @@ I have technical experience and interest in:
 ### 🌐 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)](www.linkedin.com/in/atharabbas-993-linkden)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail)](atharabbas993@gmail.com)
+
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
