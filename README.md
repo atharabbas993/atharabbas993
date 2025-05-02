@@ -44,8 +44,7 @@ I have technical experience and interest in:
 
 
 
-## 📫 Connect with Me
-- 🔗 [LinkedIn](www.linkedin.com/in/atharabbas-993-linkden)
-- 🏆 [Kaggle]([https://www.kaggle.com/your-profile](https://www.kaggle.com/atharabbas993))
-- 📧 Email: atharabbas993@gmail.com
-
+### 🌐 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?logo=firefox)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail)](mailto:your.email@example.com)
