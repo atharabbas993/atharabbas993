@@ -49,21 +49,12 @@ I have technical experience and interest in:
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@atharabbas993-s4x)
 
 
-## 🛠️ Tech Stack
-
-### 🤖 Machine Learning & AI
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" title="Scikit-learn"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="50" title="TensorFlow"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="50" title="Keras"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.svg" width="50" title="PyTorch"> <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="50" title="Hugging Face">
-
-### 📊 Data Science
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" width="50" title="Pandas"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="50" title="NumPy"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50" title="Matplotlib"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50" title="Seaborn"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" width="50" title="SciPy">
-
-### 👁️ Computer Vision
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="50" title="OpenCV"> <img src="https://www.ultralytics.com/images/yolo-logo.png" width="50" title="YOLO"> <img src="https://albumentations.ai/images/albumentations_logo.svg" width="50" title="Albumentations"> <img src="https://roboflow.com/images/roboflow-app-icon.png" width="50" title="Roboflow">
-
-### 🚀 Deployment & APIs
-<img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="50" title="FastAPI"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="50" title="Flask"> <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="50" title="Streamlit"> <img src="https://pydantic.dev/img/logo.svg" width="50" title="Pydantic">
-
-### 📝 NLP
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" width="50" title="spaCy"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/NLTK_Logo.jpg" width="50" title="NLTK">
-
-
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.svg" width="50" title="PyTorch">
+  <img src="https://www.ultralytics.com/images/yolo-logo.png" width="50" title="YOLO" style="background:white;padding:2px">
+  <img src="https://albumentations.ai/images/albumentations_logo.svg" width="50" title="Albumentations">
+  <br>
+  <img src="https://roboflow.com/images/roboflow-app-icon.png" width="50" title="Roboflow" style="background:white;padding:2px">
+  <img src="https://pydantic.dev/img/logo.svg" width="50" title="Pydantic">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/NLTK_Logo.jpg" width="50" title="NLTK" style="background:white;padding:2px">
+</p>
