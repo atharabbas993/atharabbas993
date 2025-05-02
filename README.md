@@ -11,7 +11,6 @@ I have technical experience and interest in:
 
 ## 🛠️ Languages and Tools:
 
-## 🛠️ Tech Stack
 
 ### 🤖 Machine Learning & AI
 <div align="center">
