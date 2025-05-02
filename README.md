@@ -26,15 +26,11 @@ I have technical experience and interest in:
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
 
-
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 ![Albumentations](https://img.shields.io/badge/Albumentations-00C4CC?style=for-the-badge&logo=albumentations&logoColor=white)
 ![Roboflow](https://img.shields.io/badge/Roboflow-FF4C4C?style=for-the-badge&logo=roboflow&logoColor=white)
 
-
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-000080?style=for-the-badge&logo=nltk&logoColor=white)
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -42,9 +38,9 @@ I have technical experience and interest in:
 ![Pydantic](https://img.shields.io/badge/Pydantic-9209FF?style=for-the-badge&logo=pydantic&logoColor=white)
 
 
-
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-000080?style=for-the-badge&logo=nltk&logoColor=white)
 
 ### 🌐 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?logo=firefox)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)](www.linkedin.com/in/atharabbas-993-linkden)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail)](atharabbas993@gmail.com)
