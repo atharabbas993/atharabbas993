@@ -49,12 +49,16 @@ I have technical experience and interest in:
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@atharabbas993-s4x)
 
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.svg" width="50" title="PyTorch">
-  <img src="https://www.ultralytics.com/images/yolo-logo.png" width="50" title="YOLO" style="background:white;padding:2px">
-  <img src="https://albumentations.ai/images/albumentations_logo.svg" width="50" title="Albumentations">
-  <br>
-  <img src="https://roboflow.com/images/roboflow-app-icon.png" width="50" title="Roboflow" style="background:white;padding:2px">
-  <img src="https://pydantic.dev/img/logo.svg" width="50" title="Pydantic">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/NLTK_Logo.jpg" width="50" title="NLTK" style="background:white;padding:2px">
-</p>
+### 🤖 Machine Learning & AI
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.svg" width="50" title="PyTorch" alt="PyTorch">
+
+### 👁️ Computer Vision
+<img src="https://www.ultralytics.com/images/yolo-logo.png" width="50" title="YOLO" alt="YOLO" style="background:white;padding:2px">
+<img src="https://albumentations.ai/images/albumentations_logo.svg" width="50" title="Albumentations" alt="Albumentations">
+<img src="https://roboflow.com/images/roboflow-app-icon.png" width="50" title="Roboflow" alt="Roboflow" style="background:white;padding:2px">
+
+### 🚀 Deployment & APIs
+<img src="https://pydantic.dev/img/logo.svg" width="50" title="Pydantic" alt="Pydantic">
+
+### 📝 NLP
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/NLTK_Logo.jpg" width="50" title="NLTK" alt="NLTK" style="background:white;padding:2px">
