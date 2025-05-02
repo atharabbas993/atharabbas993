@@ -14,36 +14,19 @@ I have technical experience and interest in:
 ## 🛠️ Tech Stack
 
 ### 🤖 Machine Learning & AI
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" height="45" title="Keras" style="margin:0 10px">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.svg" height="45" title="PyTorch" style="margin:0 10px">
-</div>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" title="Scikit-learn"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="50" title="TensorFlow"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="50" title="Keras"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.svg" width="50" title="PyTorch"> <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="50" title="Hugging Face">
 
 ### 📊 Data Science
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="45" title="NumPy" style="margin:0 10px">
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="35" title="Seaborn" style="margin:0 10px">
-</div>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" width="50" title="Pandas"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="50" title="NumPy"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50" title="Matplotlib"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50" title="Seaborn"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" width="50" title="SciPy">
 
 ### 👁️ Computer Vision
-<div align="center">
-  <img src="https://www.ultralytics.com/images/yolo-logo.png" height="45" title="YOLO" style="background:white;padding:5px;border-radius:5px;margin:0 10px">
-  <img src="https://albumentations.ai/images/albumentations_logo.svg" height="45" title="Albumentations" style="margin:0 10px">
-  <img src="https://roboflow.com/images/roboflow-app-icon.png" height="45" title="Roboflow" style="background:white;padding:5px;border-radius:5px;margin:0 10px">
-</div>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="50" title="OpenCV"> <img src="https://www.ultralytics.com/images/yolo-logo.png" width="50" title="YOLO"> <img src="https://albumentations.ai/images/albumentations_logo.svg" width="50" title="Albumentations"> <img src="https://roboflow.com/images/roboflow-app-icon.png" width="50" title="Roboflow">
 
 ### 🚀 Deployment & APIs
-<div align="center">
-  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" height="40" title="FastAPI" style="margin:0 10px">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" height="45" title="Flask" style="background:white;padding:5px;margin:0 10px">
-  <img src="https://pydantic.dev/img/logo.svg" height="45" title="Pydantic" style="margin:0 10px">
-</div>
+<img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="50" title="FastAPI"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="50" title="Flask"> <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="50" title="Streamlit"> <img src="https://pydantic.dev/img/logo.svg" width="50" title="Pydantic">
 
 ### 📝 NLP
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" height="45" title="spaCy" style="margin:0 10px">
-  <img src="https://raw.githubusercontent.com/nltk/nltk.github.io/main/assets/images/logo.png" height="45" title="NLTK" style="background:white;padding:5px;border-radius:5px;margin:0 10px">
-</div>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" width="50" title="spaCy"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/NLTK_Logo.jpg" width="50" title="NLTK">
 
 ## 🌐 Connect With Me
 
